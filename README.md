@@ -2,7 +2,7 @@
 
 <i>Tinder Application for dog !</i>
 <br>
-<img width="1006" alt="ss project" src="images/SS TINDOG.png">
+<img width="1006" alt="ss project" src="images/SS TINDOG.png" border="round">
 
 <i>Meet new and interesting dogs nearby.</i>
 
